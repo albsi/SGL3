@@ -1,4 +1,4 @@
 SGL3
 ====
 
-It is a tool to list an organise Stargates on the minecraft.giga.de Server.
+It is a Java tool to list and organise Stargates on the minecraft.giga.de Server.
